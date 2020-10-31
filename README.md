@@ -1,4 +1,8 @@
-# Practical Machine Learning Assignment 
+# The Link to the GH-Pages is given here
+https://k2lfrankenstein.github.io/Pratical-Machine-Learning/Activityrecognition-using-predective-analytics.html
+
+
+# Overviw Practical Machine Learning Assignment 
 
 Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about 
 personal activity relatively inexpensively. These type of devices are part of the quantified self movement – a group of enthusiasts 
